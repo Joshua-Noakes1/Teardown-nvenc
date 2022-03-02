@@ -23,8 +23,8 @@ All tests used the same 1,171 images in a resolution of 4096 x 2160, they can be
 ### PC1
 
 - Using the CPU this video took 1 minute and 5 seconds to encode at an average speed of x0.2, it had an output file size of 71.5 MB.  
-  [[YouTube](https://youtu.be/lnOLVdUtck8)] - [[Google Drive](https://drive.google.com/file/d/1CzYjvY4UNbERUe4Mwu1OnjNitXqgQ7XF/view?usp=sharing)]  
-  https://raw.githubusercontent.com/Joshua-Noakes1/Teardown-nvenc/main/.github/videos/2022-03-02-19-37-13-cpu.mp4  
+   [[YouTube](https://youtu.be/lnOLVdUtck8)] - [[Google Drive](https://drive.google.com/file/d/1CzYjvY4UNbERUe4Mwu1OnjNitXqgQ7XF/view?usp=sharing)]  
+  https://raw.githubusercontent.com/Joshua-Noakes1/Teardown-nvenc/main/.github/videos/2022-03-02-19-37-13-cpu.mp4?token=GHSAT0AAAAAABR2AUK7BSNV2JHS5Y2IJZUSYRJBWIA  
   _2022-03-02-19-37-13-cpu.mp4_
 
 - Using the GPU this video took 37 seconds to encode at an average speed of x0.5, it had an output file size of 18.1 MB.  
