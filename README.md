@@ -18,4 +18,16 @@ I've tried to test this on a few PCs to see what the performance is like, below 
 
 ## Examples
 
-All tests used the same 1,171 images in a resolution of 4096 x 2160, they can be found [here on Google Drive](https://drive.google.com/file/d/12zOgIjnrMKXSaQHkm2yi_wz5wPzsnlfk/view?usp=sharing)
+All tests used the same 1,171 images in a resolution of 4096 x 2160, they can be found [here on Google Drive](https://drive.google.com/drive/folders/1XXnlwIHAZtEiPHGRm2KGpeXE4TnaujHQ?usp=sharing) in the ["_capture.zip_"](https://drive.google.com/file/d/12zOgIjnrMKXSaQHkm2yi_wz5wPzsnlfk/view?usp=sharing) the accompanying videos can also be found in the same folder.
+
+### PC1
+
+- Using the CPU this video took 1 minute and 5 seconds to encode at an average speed of x0.2, it had an output file size of 71.5 MB.  
+  [[YouTube](https://youtu.be/lnOLVdUtck8)] - [[Google Drive](https://drive.google.com/file/d/1CzYjvY4UNbERUe4Mwu1OnjNitXqgQ7XF/view?usp=sharing)]  
+  https://raw.githubusercontent.com/Joshua-Noakes1/Teardown-nvenc/main/.github/videos/2022-03-02-19-37-13-cpu.mp4  
+  _2022-03-02-19-37-13-cpu.mp4_
+
+- Using the GPU this video took 37 seconds to encode at an average speed of x0.5, it had an output file size of 18.1 MB.  
+  [[YouTube](https://youtu.be/cJIySBOwInc)] - [[Google Drive](https://drive.google.com/file/d/1A2CH7CRyFTSpkQlXVJId_puwsiB_HMTU/view?usp=sharing)]  
+  https://raw.githubusercontent.com/Joshua-Noakes1/Teardown-nvenc/main/.github/videos/2022-03-02-20-20-16-gpu.mp4  
+  _2022-03-02-20-20-16-gpu.mp4_
