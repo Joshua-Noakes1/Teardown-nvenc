@@ -38,6 +38,10 @@ It's unlikely that this would effect anything but below are a list of the Video 
   - Artzert's Utilities - [[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2699175590)]
   - REALISTIC NUCLEAR BOMB - [[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2760943967)]
 
+## Results
+
+If you're just here for the results look no further the table below explains where the result came from, how fast the encode was and the final size of the video.
+
 ## Examples
 
 All tests used the same 1,171 images in a resolution of 4096 x 2160, they can be found [here on Google Drive](https://drive.google.com/drive/folders/1XXnlwIHAZtEiPHGRm2KGpeXE4TnaujHQ?usp=sharing) in the ["_capture.zip_"](https://drive.google.com/file/d/12zOgIjnrMKXSaQHkm2yi_wz5wPzsnlfk/view?usp=sharing) archive, the accompanying videos can also be found in the same folder.
