@@ -17,4 +17,5 @@ I've tried to test this on a few PCs to see what the performance is like, below 
 | AMD Ryzen 1500X Quad-Core Processor | 16GBs DDR4 @ 2133MHz | Gigabyte GeForce® 1660 Ti OC 6G | Samsung 850 EVO 250GB SSD |
 
 ## Examples
-All tests have used the same test footage
+
+All tests have used the same test footage, 1171 Images in 4096 x 2160
