@@ -6,7 +6,13 @@
 
 ## Unofficial Teardown NVENC Screen Recorder
 
-After installing the Teardown beta on Steam it was apparent how slow FFMPEG CPU encoding is, So I set out to find the correct hardware acceleration commands that would meet the quality that is provided by the default script while maintaining an overall quick experience.
+After installing the Teardown beta on Steam it was apparent how slow FFMPEG CPU encoding is, So I set out to find the correct hardware acceleration commands that would meet the quality that is provided by the default script while maintaining an overall fast experience.
+
+## Downloads
+
+You can find the default script provided by Tuxedo Labs along with the NVENC script and Linux variants in links below, they can also be found in the scripts folder.
+
+[[Windows - GPU](https://github.com/Joshua-Noakes1/Teardown-nvenc/blob/main/scripts/makemovie.gpu.bat)] [[Linux - GPU](https://github.com/Joshua-Noakes1/Teardown-nvenc/blob/main/scripts/makemovie.gpu.sh)]
 
 ## Hardware
 
@@ -42,6 +48,11 @@ It's unlikely that this would effect anything but below are a list of the Video 
 
 If you're just here for the results look no further the table below explains where the result came from, how fast the encode was and the final size of the video.
 
-## Examples
+All tests used the same 1,171 images in a resolution of 4096 x 2160, they can be found [here](https://drive.google.com/drive/folders/1XXnlwIHAZtEiPHGRm2KGpeXE4TnaujHQ?usp=sharing) on Google Drive in the "[_capture.zip_](https://drive.google.com/file/d/12zOgIjnrMKXSaQHkm2yi_wz5wPzsnlfk/view?usp=sharing)" archive, the accompanying videos can also be found in the same folder.
 
-All tests used the same 1,171 images in a resolution of 4096 x 2160, they can be found [here on Google Drive](https://drive.google.com/drive/folders/1XXnlwIHAZtEiPHGRm2KGpeXE4TnaujHQ?usp=sharing) in the ["_capture.zip_"](https://drive.google.com/file/d/12zOgIjnrMKXSaQHkm2yi_wz5wPzsnlfk/view?usp=sharing) archive, the accompanying videos can also be found in the same folder.
+## PC1 - AMD Ryzen 3700X | Gigabyte GeForce RTX™ 3070 8G
+
+| Encode Type | Encode Time        | Encode Speed Avg. | Final File Size | Evidence (YouTube - Google Drive) | File Name                   |
+| ----------- | ------------------ | ----------------- | --------------- | --------------------------------- | --------------------------- |
+| CPU         | 1 Minuet 8 Seconds | x0.3              | 71.5 MB         | ---                               | 2022-03-03-16-29-51-cpu.mp4 |
+| GPU         | 12 Seconds         | x1.7              | 81.5 MB         | ---                               | 2022-03-03-16-32-27-gpu.mp4 |
