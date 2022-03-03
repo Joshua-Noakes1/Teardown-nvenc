@@ -24,7 +24,7 @@ I've tried to test this on a few PCs to see what the performance is like, below 
 
 ## Game config
 
-It's unlikely that this would effect anything but incase, below are a list of the video settings and mods I had enabled at the time.
+It's unlikely that this would effect anything but in case, below are a list of the video settings and mods I had enabled at the time.
 
 - Video Settings:
   - Display:
