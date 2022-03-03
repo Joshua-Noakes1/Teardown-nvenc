@@ -54,5 +54,12 @@ All tests used the same 1,171 images in a resolution of 4096 x 2160, they can be
 
 | Encode Type | Encode Time        | Encode Speed Avg. | Final File Size | Evidence (YouTube - Google Drive) | File Name                   |
 | ----------- | ------------------ | ----------------- | --------------- | --------------------------------- | --------------------------- |
-| CPU         | 1 Minuet 8 Seconds | x0.3              | 71.5 MB         | ---                               | 2022-03-03-16-29-51-cpu.mp4 |
+| CPU         | 1 Minute 8 Seconds | x0.3              | 71.5 MB         | ---                               | 2022-03-03-16-29-51-cpu.mp4 |
 | GPU         | 12 Seconds         | x1.7              | 81.5 MB         | ---                               | 2022-03-03-16-32-27-gpu.mp4 |
+
+## PC2 - AMD Ryzen 1500X | Gigabyte GeForce® 1660 Ti 6G
+
+| Encode Type | Encode Time         | Encode Speed Avg. | Final File Size | Evidence (YouTube - Google Drive) | File Name                   |
+| ----------- | ------------------- | ----------------- | --------------- | --------------------------------- | --------------------------- |
+| CPU         | 2 Minutes 3 Seconds | x0.1              | 73.2 MB         | ---                               | 2022-03-03-16-41-54-cpu.mp4 |
+| GPU         | 16 Seconds          | x1.6              | 85.9 MB         | ---                               | 2022-03-03-16-45-55-gpu.mp4 |
