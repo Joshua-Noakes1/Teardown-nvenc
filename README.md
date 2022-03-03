@@ -6,7 +6,7 @@
 
 ## Unofficial Teardown NVENC Screen Recorder
 
-After installing the Teardown beta on Steam it was apparent how slow FFMPEG CPU encoding is, So I set out to find the correct hardware acceleration commands that would meet the quality that is provided by the default script while maintaining an overall fast experience.
+After installing the Teardown beta on Steam it was apparent how slow FFMPEG CPU encoding is, so I set out to find the correct hardware acceleration commands that would meet the quality that is provided by the default script while maintaining an overall fast experience.
 
 ## Downloads
 
@@ -24,7 +24,7 @@ I've tried to test this on a few PCs to see what the performance is like, below 
 
 ## Game config
 
-It's unlikely that this would effect anything but below are a list of the Video setting and mods I had enabled at the time.
+It's unlikely that this would effect anything but incase, below are a list of the video settings and mods I had enabled at the time.
 
 - Video Settings:
   - Display:
