@@ -13,6 +13,8 @@ After installing the Teardown beta on Steam it was apparent how slow FFMPEG CPU 
 You can find the default script provided by Tuxedo Labs along with the NVENC script and Linux variants in links below, they can also be found in the scripts folder.
 You'll need to have an FFmpeg build under or equal to 4.2.3 which supports NVENC, all needed files can be found under the Releases tab.
 
+It's a drag and drop replacement for the original script and works the same.
+
 [[Windows - GPU](https://github.com/Joshua-Noakes1/Teardown-nvenc/releases)] [[Linux - GPU](https://github.com/Joshua-Noakes1/Teardown-nvenc/releases)]
 
 ## Hardware
