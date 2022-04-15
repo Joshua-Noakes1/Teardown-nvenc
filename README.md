@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://teardowngame.com/" target="_blank">
-<img src="https://teardowngame.com/logo.png" alt="Teardown Logo">
+<img src="https://teardowngame.com/assets/img/logoteardown.png" alt="Teardown Logo">
 </a>
 </p>
 
